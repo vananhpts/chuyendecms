@@ -1,0 +1,1 @@
+asdasdasdasdGIT_AUTHOR_EMAIL="you@email.com" && GIT_AUTHOR_NAME="Your Name" && git commit
